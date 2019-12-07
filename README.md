@@ -23,11 +23,11 @@ All the datasets are provided in the [repo](https://github.com/ishan6899/oral_in
 Use `pip` or `conda` to install the libraries <br>
 
 Example:<br>
-`pip install numpy`
+`pip install numpy` Or
 `conda install numpy`
 
 ## License
 
-This repository is covered under the MIT License
+This repository is covered under the [MIT License](https://github.com/ishan6899/oral_insulin/blob/master/LICENSE)
 
 
